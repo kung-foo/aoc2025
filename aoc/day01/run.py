@@ -1,12 +1,5 @@
 #!/usr/bin/env -S uv run --script
 
-import os
-import random
-import sys
-
-import numpy as np
-from typing_extensions import Dict
-
 part1 = 0
 part2 = 0
 
